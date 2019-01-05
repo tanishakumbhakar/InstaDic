@@ -2,7 +2,7 @@
 > A chrome extension that gives the meaning of the selected word
 ## Table of contents
 * [Technologies](#technologies)
-* [Setup and Features](#setup and features)
+* [Features](#features)
 
 
 ## Technologies
@@ -10,7 +10,7 @@
 * Javascript
 * JSON API
 
-## Setup and Features
+## Features
 After the extension is ready,
 in the google search bar type chrome://extensions .Click on load unpacked extension.
 Since the extension is created in the context menu,select the word,right-click to open the context menu and click on InstaDic.
