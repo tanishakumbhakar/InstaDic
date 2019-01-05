@@ -1,4 +1,4 @@
-# IntsaDic-
+# InstaDic-
 > A chrome extension that gives the meaning of the selected word
 ## Table of contents
 * [Technologies](#technologies)
